@@ -47,7 +47,11 @@ Height:100%;
 
 #nav-part2 h4{ 
     font-size: 16px;
-    font-weight: 500;
+    font-weight: 600;
+}
+#nav-part2 h4 span {
+    color: rgb(77, 77, 78);
+    margin-left: 25px;
 }
 .gola {
     width: 22px;
