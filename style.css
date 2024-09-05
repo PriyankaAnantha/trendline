@@ -2,7 +2,7 @@
 Margin:0;
 Padding:0;
 Box-sizing: border-box;
-Font-family: 'Poppins', sans-serif;
+Font-family: ;
 }
 
 html,body{
@@ -37,10 +37,23 @@ Height:100%;
     gap: 2px;
 }
 
+
+#nav-part2{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+#nav-part2 h4{ 
+    font-size: 16px;
+    font-weight: 500;
+}
 .gola {
-    width: 50px;
-    height: 50px;
+    width: 22px;
+    height: 22px;
     background-color: black;
     border-radius: 50%;
-    
+
 }
+
