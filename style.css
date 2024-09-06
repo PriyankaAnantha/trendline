@@ -88,7 +88,17 @@ Height:100%;
     width: 100%;
     height: 45%;
     background-color: burlywood;
+    display: flex;
+    flex-wrap: nowrap;
 
   }
+
+.elem {
+    
+    flex-shrink: 0;
+    height: 100%;
+    width: 50%;
+    background-color: red;
+}
 
 
