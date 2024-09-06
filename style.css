@@ -113,4 +113,8 @@ In summary, overflow-x: auto; ensures that a horizontal scrollbar is added only 
     justify-content: center;
 }
 
+.elem h1{
+    font-size: 100px;
+    font-weight: 200;
+}
 
