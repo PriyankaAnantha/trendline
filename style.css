@@ -92,6 +92,14 @@ Height:100%;
     flex-wrap: nowrap;
     overflow-x: auto;
 
+    /* The CSS property overflow-x: auto; is used to control the horizontal overflow of an element. Here's what it does:
+
+overflow-x: This property specifies what to do with the content that overflows the element's box horizontally.
+auto: This value means that if the content overflows the element's box, a horizontal scrollbar will appear to allow the user to scroll and see the hidden content.
+In summary, overflow-x: auto; ensures that a horizontal scrollbar is added only when the content overflows the element's width. */
+
+
+
   }
 
 .elem {
