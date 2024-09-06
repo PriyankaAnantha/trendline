@@ -108,6 +108,9 @@ In summary, overflow-x: auto; ensures that a horizontal scrollbar is added only 
     height: 100%;
     width: 50%;
     background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 
