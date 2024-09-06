@@ -80,14 +80,14 @@ Height:100%;
   #content { 
     width: 100%;
     height: calc(100% - 150px);
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
 
   }
 
   #text-content{
     width: 100%;
     height: 45%;
-    background-color: burlywood;
+    /* background-color: burlywood; */
     display: flex;
     flex-wrap: nowrap;
     overflow-x: auto;
@@ -107,7 +107,7 @@ In summary, overflow-x: auto; ensures that a horizontal scrollbar is added only 
     flex-shrink: 0;
     height: 100%;
     width: 50%;
-    background-color: red;
+    /* background-color: red; */
     display: flex;
     align-items: center;
     justify-content: center;
