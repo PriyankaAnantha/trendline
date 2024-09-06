@@ -90,6 +90,7 @@ Height:100%;
     background-color: burlywood;
     display: flex;
     flex-wrap: nowrap;
+    overflow-x: auto;
 
   }
 
