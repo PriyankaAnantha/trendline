@@ -21,7 +21,7 @@ Height:100%;
 #nav{
     height: 80px;
     width: 100%;
-    background-color: red;
+    /* background-color: red; */
 
     display: flex;
     align-items: center;
