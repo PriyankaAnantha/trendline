@@ -61,3 +61,20 @@ Height:100%;
 
 }
 
+.nav2 {
+    height: 70px;
+    width: 100%;
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    padding: 0 50px;
+    gap: 100px;
+  }
+
+  .nav2 h3 {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  
+
