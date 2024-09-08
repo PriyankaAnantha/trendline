@@ -105,8 +105,14 @@ In summary, overflow-x: auto; ensures that a horizontal scrollbar is added only 
   #text-content::-webkit-scrollbar {
    
     /* target scrollbar */
-    display: none;
-    
+    /* display: none; */
+background-color: transparent;
+height: 7px;
+
+  }
+  #text-content::-webkit-scrollbar-thumb {
+    background-color:orangered;
+    border-radius: 10px;
   }
 
 .elem {
