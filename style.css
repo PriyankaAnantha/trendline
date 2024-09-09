@@ -189,6 +189,7 @@ height: 7px;
 }
     #nav-part2{
       
+        align-items: center;
         gap: 30px;
     }
     
@@ -200,12 +201,12 @@ height: 7px;
 
     #nav-part2 h4:nth-child(1){
         display: initial;
-        margin-right: 10px;
+        margin-right: 25px;
     }
 
     #nav-part2 h4 span {
         color: rgb(77, 77, 78);
-        margin-left: 25px;
+        margin-left: 10px;
     }
     .gola {
         width: 16px;
