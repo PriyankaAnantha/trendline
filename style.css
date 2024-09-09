@@ -163,7 +163,7 @@ height: 7px;
 }
 
 
-@media (max-width: 600px) {
+@media (max-width: 1180px) {
     
     
     #nav{
@@ -218,7 +218,7 @@ height: 7px;
 
 
     .nav2 {
-        height: 50px;
+        height: 60px;
         width: 100%;
         /* background-color: red; */
         display: flex;
