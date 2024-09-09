@@ -323,5 +323,8 @@ height: 7px;
     } 
 
 
+    /* #image-content img :nth-child(3){ 
+        object-position: left;
+    } */
 }
 
