@@ -162,6 +162,7 @@ height: 7px;
     display: none;
 }
 
+
 @media (max-width: 600px) {
     
     
@@ -181,16 +182,27 @@ height: 7px;
     display: initial;
 
 }
+
+#nav h5 i {
+    font-size: 20px;
+    font-weight: 700;
+}
     #nav-part2{
       
-        gap: 40px;
+        gap: 30px;
     }
     
     #nav-part2 h4{ 
-        font-size: 16px;
+        font-size: 13px;
         font-weight: 600;
         display: none;
     }
+
+    #nav-part2 h4:nth-child(1){
+        display: initial;
+        margin-right: 10px;
+    }
+
     #nav-part2 h4 span {
         color: rgb(77, 77, 78);
         margin-left: 25px;
