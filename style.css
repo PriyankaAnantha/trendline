@@ -158,6 +158,9 @@ height: 7px;
 
 }
 
+#nav h5{
+    display: none;
+}
 
 @media (max-width: 600px) {
     
@@ -173,6 +176,11 @@ height: 7px;
         gap: 0px;
     }
 
+    
+#nav h5{
+    display: initial;
+
+}
     #nav-part2{
       
         gap: 40px;
