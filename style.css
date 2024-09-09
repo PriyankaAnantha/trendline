@@ -278,20 +278,22 @@ height: 7px;
         
         flex-shrink: 0;
         height: 100%;
-        width: 80%;
+        width: fit-content;
         /* background-color: red; */
         display: flex;
         align-items: center;
         justify-content: center;
+        margin-right: 20px;
        
     }
     
     .elem h1{
         /* font-size: 100px; */
-        font-size: 14vw;
+        font-size: 24vw;
         white-space: nowrap; 
         /* no wrap makes to stay in the same line */
         font-weight: 200;
+        margin: 5vw;
     }
     
     
