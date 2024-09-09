@@ -163,7 +163,7 @@ height: 7px;
     
     
     #nav{
-        height: 60px;
+        height: 70px;
         width: 100%;
         /* background-color: red; */
     
@@ -180,5 +180,30 @@ height: 7px;
         justify-content: center;
         gap: 2px;
     }
+
+    #nav-part2{
+        display: flex; 
+        align-items: center;
+        justify-content: center;
+        gap: 40px;
+    }
+    
+    #nav-part2 h4{ 
+        font-size: 16px;
+        font-weight: 600;
+    }
+    #nav-part2 h4 span {
+        color: rgb(77, 77, 78);
+        margin-left: 25px;
+    }
+    .gola {
+        width: 22px;
+        height: 22px;
+        background-color: black;
+        border-radius: 50%;
+    
+    }
+
+    
 }
 
