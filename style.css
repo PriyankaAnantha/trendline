@@ -225,7 +225,7 @@ height: 7px;
         align-items: center;
         justify-content: space-between;
         padding: 0 50px;
-        gap: 100px;
+        gap: 1px;
       }
     
       .nav2 h3 {
