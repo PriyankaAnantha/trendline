@@ -162,5 +162,23 @@ height: 7px;
 @media (max-width: 600px) {
     
     
+    #nav{
+        height: 80px;
+        width: 100%;
+        /* background-color: red; */
+    
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 50px;
+    
+    }
+    
+    #nav-part1{
+        display: flex; 
+        align-items: center;
+        justify-content: center;
+        gap: 2px;
+    }
 }
 
